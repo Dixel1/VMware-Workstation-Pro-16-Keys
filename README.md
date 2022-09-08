@@ -37,4 +37,4 @@ ZF71R-DMX85-08DQY-8YMNC-PPHV8
 
 ------------------------------
 
-# NOTE: After the activation can update VMware Workstation Pro to a newer version if you want. As long as I know, updates don't have any impact on the VMware activation. If you find any issue related to activation following an update, please let me know ! ❤️
+# NOTE: After the activation you can update VMware Workstation Pro to a newer version if you want. As long as I know, updates don't have any impact on the VMware activation. If you find any issue related to activation following an update, please let me know ! ❤️
