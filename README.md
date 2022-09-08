@@ -5,7 +5,7 @@ Please, refer to [Sarvagon/README.md](https://github.com/Sarvagon/Sarvagon#readm
 
 ------------------------------
 
-#Instructions
+# Instructions
 - Download VMware Workstation Pro 16 here : https://www.vmware.com/go/getworkstation-win
 - Install it (a restart may be required).
 - Open the application and past one of those licence keys below.
