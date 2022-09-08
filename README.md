@@ -3,11 +3,17 @@ In this repository, you can find for free some real VMware Workstation Pro 16 ke
 I do not endorse or encourage hacking in any way. I am therefore in no way responsible for the use you make of them. 😅
 Please, refer to [Sarvagon/README.md](https://github.com/Sarvagon/Sarvagon#readme) for more informations. 🙌
 
+------------------------------
+
 #Instructions#
 - Download VMware Workstation Pro 16 here : https://www.vmware.com/go/getworkstation-win
 - Install it (a restart may be required).
 - Open the application and past one of those licence keys below.
 - You now just have to enjoy your full version of VMware Workstation Pro 16.
+
+------------------------------
+
+#Licence Keys#
 
 AZ3E8-DCD8J-0842Z-N6NZE-XPKYF
 
