@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS NOW ARCHIVED, BUT IS STILL AVAILABLE IS YOU'RE USING ***VMWARE WORKSTATION PRO 16***
+
 # VMware Workstation Pro 16 Keys
 In this repository, you can find for free some real VMware Workstation Pro 16 keys ! 😁
 I do not endorse or encourage hacking in any way. I am therefore in no way responsible for the use you make of them. 😅
